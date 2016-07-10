@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation">4dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="header_img_height">300dp</dimen>
+
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_margin_horizontal">-3dp</dimen>
+    <dimen name="card_margin_business">4dp</dimen>
+
+
+    <!-- menu activity for client dimens -->
+    <!-- list -->
+    <dimen name="list_side_margin">4dp</dimen>
+    <dimen name="list_toolbar_side_margin">0dp</dimen>
+    <integer name="list_column_count">2</integer>
+
+    <!-- detail -->
+    <bool name="detail_is_card">false</bool>
+    <dimen name="detail_photo_height">304dp</dimen>
+    <dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen>
+    <dimen name="detail_inner_horiz_margin">16dp</dimen>
+    <dimen name="detail_card_max_width">10000dp</dimen> <!-- force match_parent -->
+    <dimen name="detail_metabar_vert_padding">16dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
+    <dimen name="detail_body_top_margin">16dp</dimen>
+    <dimen name="detail_body_bottom_margin">88dp</dimen>
+
+
+    <!-- detail -->
+    <dimen name="detail_title_text_size">34sp</dimen>
+    <dimen name="detail_body_text_size">24sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_press_translation_z">12dp</dimen>
+
+    <dimen name="appbar_elevation">4dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+</resources>

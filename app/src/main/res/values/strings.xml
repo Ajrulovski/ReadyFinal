@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Ready</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_fullname">Name and surname</string>
+    <string name="prompt_address">Address</string>
+    <string name="prompt_loc">Chosen location will appear here</string>
+    <string name="prompt_location">Tap to choose location</string>
+    <string name="prompt_phone">Phone number</string>
+    <string name="prompt_busname">Name</string>
+    <string name="prompt_birthdate">When is your birthday?</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Not Ready! yet? Tap here to register.</string>
+    <string name="choice_register_middle">What kind of an account would you like to register?</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="widget_title">Latest Ready! orders</string>
+
+    <string name="rate_client">Rate this client</string>
+
+    <string name="prompt_itemname">Item name</string>
+    <string name="prompt_itemdesc">Item description</string>
+    <string name="prompt_itemprice">How much does a single item cost?</string>
+    <string name="prompt_additionalinfo">Wanna add some details to your order? Write it down here.</string>
+    <string name="action_add_item">Add new item</string>
+    <string name="action_choose_item_image">Choose item image</string>
+    <string name="action_choose_bus_loc">Choose business location</string>
+    <string name="spinner_title">Business type</string>
+    <string name="title_activity_splash">Ready!</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_choose_location">Map</string>
+    <string name="title_activity_orders">OrdersActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_edit_menu">Edit menu</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_menu_client">MenuClientActivity</string>
+
+    <string name="action_descriptor_confirm_order">Confirm order</string>
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <string name="label_total">TOTAL</string>
+
+    <string name="current_loc_title">Your current location</string>
+
+    <string name="cd_addimage">Add image</string>
+    <string name="cd_addloc">Add location for your business</string>
+    <string name="cd_addnewitem">Add new item</string>
+    <string name="cd_confirmorder">Confirm order and send to next stage</string>
+    <string name="cd_itemnumber">Choose the number of items you want to order</string>
+    <string name="cd_confirmitemnumber">Confirm the number of items you want to order</string>
+    <string name="cd_edit_menu_item">Edit the menu item</string>
+    <string name="cd_remove_menu_item">Remove the menu item</string>
+    <string name="cd_markfavourites">Mark business as favourite</string>
+    <string name="cd_rate">Rate this business</string>
+    <string name="cd_choosebusiness">Choose business to browse its service menu</string>
+    <string name="cd_removeitem">Remove item from order</string>
+    <string name="cd_registerclient">Complete registration of a new client account</string>
+    <string name="cd_choosedate">Choose your birthday</string>
+    <string name="cd_regbus">Register new business account</string>
+    <string name="cd_regclient">Register new client account</string>
+    <string name="cd_ordertabs">Switch through tabs to see orders in different stages</string>
+    <string name="cd_addnewmenuitem">Add new menu item</string>
+    <string name="cd_registernew">Register a new account</string>
+    <string name="cd_login">Log in</string>
+    <string name="cd_checkoutfinish">Make your order</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

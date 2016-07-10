@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117661374373",
+    "firebase_url": "https://ready-c384e.firebaseio.com",
+    "project_id": "ready-c384e",
+    "storage_bucket": "ready-c384e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117661374373:android:2d9422bc20062807",
+        "android_client_info": {
+          "package_name": "gazmend.com.mk.ready"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117661374373-v36lg1a5ehq1vfga6lgfj8qet7etfgcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gazmend.com.mk.ready",
+            "certificate_hash": "075E6E747E640BAF6A3E9CEE60C5B5BBCA138606"
+          }
+        },
+        {
+          "client_id": "117661374373-a0p5ndtop3pi3fcmmsg8vrqdu17epuqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeuJsJ3FvLeM5i1peVO1osCuBbOXrbnJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117661374373-a0p5ndtop3pi3fcmmsg8vrqdu17epuqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
